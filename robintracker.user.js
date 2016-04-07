@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Robin Tracker
 // @namespace    https://monstrouspeace.com
-// @version      1.02
+// @version      1.03
 // @description  Contributes statistics data to https://monstrouspeace.com/robintracker/
 // @author       /u/GuitarShirt
 // @match        https://www.reddit.com/robin*
